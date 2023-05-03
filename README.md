@@ -1,6 +1,5 @@
 ## Olá, eu sou o Kauã Rodrigo 
 
-- 🔭 Atualmente trabalhando em projetos particulares
 - 🌱 Cursando ciência da computação 
 - ⚡ Eu gosto de pudim
 
