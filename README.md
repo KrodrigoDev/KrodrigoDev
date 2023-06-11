@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kauã Rodrigo 
 
-- 🌱 Cursando ciência da computação 
+- 🌱 Cursando ciência da computação 4/8
 
 
 <div style="display: inline_block"><br>
