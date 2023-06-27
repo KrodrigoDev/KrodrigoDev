@@ -4,9 +4,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="KaKau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="KaKau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="KaKau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="KrodrigoDev-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="KrodrigoDev-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="KrodrigoDev-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="KrodrigoDev-Java" height="40" width="40" src="https://github.com/KrodrigoDev/KrodrigoDev/assets/126525471/d994023b-e4cf-4010-abc6-b45b63ec91a1">
 </div>
 
 ##
