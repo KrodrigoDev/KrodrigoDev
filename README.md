@@ -4,7 +4,7 @@ Sou um desenvolvedor BackEnd com cerca de 1 ano e meio de experiência. Minha jo
 
 ### ⚡ Habilidades
 - **FrontEnd:** HTML, CSS, Bootstrap, React
-- **BackEnd:** Spring Boot
+- **BackEnd:** Spring Boot, Node.Js
 - **Android:** Java
 - **Banco de dados:** MySQL, SQLite, MongoDB
 
