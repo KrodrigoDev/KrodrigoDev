@@ -1,11 +1,10 @@
 ## Olá, eu sou Kauã Rodrigo 👨‍💻
 
-Sou um desenvolvedor BackEnd com cerca de 1 ano e meio de experiência. Minha jornada começou quando iniciei o curso de Ciência da Computação, e desde então tenho me apaixonado cada vez mais por tecnologia, especialmente aquelas relacionadas a Java.
+Sou um desenvolvedor BackEnd com cerca de 2 anos e meio de experiência. Minha área de atuação favorita é o backend. Atualmente, estou fazendo uma migração para a área de Data Science, trabalhando com dados públicos, como OpenDatasus, IBGE, microdados e outros. Além disso, também sou desenvolvedor Mobile em Java e desenvolvedor web com Java Spring Boot.
 
 ### ⚡ Habilidades
-- **FrontEnd:** HTML, CSS, Bootstrap, React
-- **BackEnd:** Spring Boot, Node.Js
-- **Android:** Java
+- **BackEnd:** Spring Boot, Node.Js, Python
+- **Mobile:** Java
 - **Banco de dados:** MySQL, SQLite, MongoDB
 
 ### 📫 Entre em contato
