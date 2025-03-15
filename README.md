@@ -1,11 +1,11 @@
 ## Olá, eu sou Kauã Rodrigo 👨‍💻
 
-Sou um desenvolvedor BackEnd com cerca de 2 anos e meio de experiência. Minha área de atuação favorita é o backend. Atualmente, estou fazendo uma migração para a área de Data Science, trabalhando com dados públicos, como OpenDatasus, IBGE, microdados e outros. Além disso, também sou desenvolvedor Mobile em Java e desenvolvedor web com Java Spring Boot.
+Atualmente, trabalho na área de dados, onde sou responsável pela automatização de processos utilizando Python, visualização de dados no Microsoft Power BI, Matplotlib ou Streamlit, extração de dados por meio de APIs e raspagem, além da análise e tratamento de dados. Tenho o diferencial de realizar a análise de dados geoespaciais por meio de softwares como QGIS ou na integração de mapas web, possibilitando o uso de WebGIS.
 
 ### ⚡ Habilidades
-- **BackEnd:** Spring Boot, Node.Js, Python
+- **BackEnd:** Spring Boot, Node.Js, Django
 - **Mobile:** Java
-- **Banco de dados:** MySQL, SQLite, MongoDB
+- **Banco de dados:** MySQL, SQLite, MongoDB, PostgreSQL
 
 ### 📫 Entre em contato
  <a href="https://www.instagram.com/kauaa_rodrigoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
