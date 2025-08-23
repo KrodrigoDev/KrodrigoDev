@@ -3,9 +3,9 @@
 Atualmente, trabalho na área de dados, onde sou responsável pela automatização de processos utilizando Python, visualização de dados no Microsoft Power BI, Matplotlib ou Streamlit, extração de dados por meio de APIs e raspagem, além da análise e tratamento de dados. Tenho o diferencial de realizar a análise de dados geoespaciais por meio de softwares como QGIS ou na integração de mapas web, possibilitando o uso de WebGIS.
 
 ### ⚡ Habilidades
-- **BackEnd:** Spring Boot, Node.Js, Django
-- **Mobile:** Java
-- **Banco de dados:** MySQL, SQLite, MongoDB, PostgreSQL
+- **BackEnd:** Python, Java
+- **Desenvolvimento Mobile:** Java
+- **Banco de dados:** MySQL, SQLite, PostgreSQL
 
 ### 📫 Entre em contato
  <a href="https://www.instagram.com/kauaa_rodrigoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
